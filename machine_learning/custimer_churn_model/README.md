@@ -10,6 +10,8 @@
 
 Источник данных: [https://www.kaggle.com/barelydedicated/bank-customer-churn-modeling](https://www.kaggle.com/barelydedicated/bank-customer-churn-modeling)
 
+## Содержание
+
 1  Подготовка данных
 
   - 1.1 Изучение и предобработка данных
